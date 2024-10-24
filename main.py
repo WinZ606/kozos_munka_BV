@@ -1,5 +1,0 @@
-print("1.")
-print("második")
-print("eaeaeaeae")
-print("gllglgl")
-print("dbjdkbkjdjk")
